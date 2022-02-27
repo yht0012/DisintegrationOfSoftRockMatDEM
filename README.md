@@ -9,11 +9,11 @@ Secondary development of MatDEM based on Matlab language,which need to **install
 If you want to download the latest version of MatDEM, please to the website: http://matdem.com.
 
 **Running of MatDEM software**
-1. 
-1. After MatDEM software is decompressed, you can open MatDEM, go to the "main program", double-click to open the sample code in the working folder on its right(pictured right),You typically run code 1~3 steps to complete a numerical simulation.
-1. The code 1 step is accumulation modeling，that is, to establish a geological accumulation body through gravity deposition and compaction
-1. The code 2 step is model cutting and material setting
-1. The code 3 step is load and calculation
+1. Please download folder named "MatDEM_v2.02", and double-click the application named "MatDEM.exe"
+1. After MatDEM software starts running, go to the "main program", you can double-click to open the code（named step 1~3） in the working folder on its right(pictured right)
+1. The code step 1 is accumulation modeling，that is, to establish a geological accumulation body through gravity deposition and compaction
+1. The code step 2 is model cutting and material setting
+1. The code step 3 is load and calculation
     * **These three codes need to be run in order**
 1. After the calculation, the post-processing module can be used to output the results
 
