@@ -8,9 +8,11 @@ MatDEM is written by Matlab language,so in theory,as long as your operating syst
 Secondary development of MatDEM based on Matlab language,which need to **install Matlab runtime environment**,MatDEM_v2.02 and above versions are required to install the R2019A (9.6) version.MATLAB runtime environment is free which can be downloaded in Matlab official website and installation.
 If you want to download the latest version of MatDEM, please to the website: http://matdem.com.
 
+    * Storage directory of code used in simulation is **"MatDEM_v2.02\code"
+
 **Running of MatDEM software**
 1. Please download folder named "MatDEM_v2.02", and double-click the application named "MatDEM.exe"
-1. After MatDEM software starts running, go to the "main program", you can double-click to open the code（named step 1~3） in the working folder on its right(pictured right)
+1. After MatDEM software starts running, go to the "main program", you can double-click to open the code（named step 1~3） in the working folder on its right(pictured right). 
 1. The code step 1 is accumulation modeling，that is, to establish a geological accumulation body through gravity deposition and compaction
 1. The code step 2 is model cutting and material setting
 1. The code step 3 is load and calculation
