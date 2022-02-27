@@ -15,12 +15,12 @@ If you want to download the latest version of MatDEM, please to the website: htt
 
 ## Running of MatDEM software
 1. Please download folder named "MatDEM_v2.02", and double-click the application named "MatDEM.exe"
-1. After MatDEM software starts running, go to the "main program", you can double-click to open the "code"（named step 1~3） in the working folder on its right.
-1.  
+1. After MatDEM software starts running, go to the "main program", you can double-click to open the "code" in the working folder on its right
+1. Double-click the code (named step 1~3) and click the "Run commaands" below the code bar
+     * **These three codes need to be run in order**
 1. The code "step 1" is accumulation modeling，that is, to establish a geological accumulation body through gravity deposition and compaction
 1. The code "step 2" is model cutting and material setting
 1. The code "step 3" is load and calculation
-    * **These three codes need to be run in order**
-6. After the calculation, the post-processing module can be used to output the results
+1. After the calculation, the post-processing module can be used to output the results
 
 **Notes:The program cannot be terminated after starting the iteration. If you need to force the termination, you can end the task with Matdem in the task manager.**
