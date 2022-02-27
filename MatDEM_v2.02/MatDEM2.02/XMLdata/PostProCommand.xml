@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<PostProCommand>
+<SimulationResult defaultIndex="1">
+  <set name="StressZZ" command="StressZZ" chs="Z方向正应力" cht="Z方向正應力" en="Stress ZZ" es="Estrés ZZ" de="Druck ZZ" fr="Stress ZZ" ja="Z方向正応力" />
+  <set name="StressYY" command="StressYY" chs="Y方向正应力" cht="Y方向正應力" en="Stress YY" es="Estrés YY" de="Druck YY" fr="Stress YY" ja="Y方向正応力" />
+  <set name="StressXX" command="StressXX" chs="X方向正应力" cht="X方向正應力" en="Stress XX" es="Estrés XX" de="Druck XX" fr="Stress XX" ja="X方向正応力" />
+  <set name="StrainZZ" command="StrainZZ" chs="Z方向正应变" cht="Z方向正應變" en="Strain ZZ" es="Tensión ZZ" de="Druck ZZ" fr="Stress ZZ" ja="Z方向正ヒズミ" />
+  <set name="StrainYY" command="StrainYY" chs="Y方向正应变" cht="Y方向正應變" en="Strain YY" es="Tensión YY" de="Druck YY" fr="Stress YY" ja="Y方向正ヒズミ" />
+  <set name="StrainXX" command="StrainXX" chs="X方向正应变" cht="X方向正應變" en="Strain XX" es="Tensión XX" de="Druck XX" fr="Stress XX" ja="X方向正ヒズミ" />
+  <set name="Displacement" command="Displacement" chs="位移" cht="位移" en="Displacement" es="Desplazamiento" de="Verschiebung" fr="Déplacement" ja="変位" />
+  <set name="XDisplacement" command="XDisplacement" chs="X方向位移" cht="X方向位移" en="X Displacement" es="X Desplazamiento" de="X Verschiebung" fr="X déplacement" ja="X方向変位" />
+  <set name="YDisplacement" command="YDisplacement" chs="Y方向位移" cht="Y方向位移" en="Y Displacement" es="Y Desplazamiento" de="Y Verschiebung" fr="Y déplacement" ja="Y方向変位" />
+  <set name="ZDisplacement" command="ZDisplacement" chs="Z方向位移" cht="Z方向位移" en="Z Displacement" es="Z Desplazamiento" de="Z Verschiebung" fr="Z déplacement" ja="Z方向変位" />
+  <set name="Diameter" command="Diameter" chs="直径" cht="直徑" en="Diameter" es="Diámetro" de="Diameter" fr="Diamètre" ja="直径" />
+  <set name="Heat" command="Heat" chs="热量" cht="" en="Heat" es="Calor" de="Wärme" fr="Chaleur" ja="熱エネルギー" />
+  <set name="ViscosityHeat" command="ViscosityHeat" chs="阻尼热" cht="阻尼熱 " en="Viscosity Heat" es="El amortiguamiento calor" de="Dämpfungswärme" fr="Chaleur de viscosité" ja="減衰熱" />
+  <set name="BreakingHeat" command="BreakingHeat" chs="断裂热" cht="斷裂熱 " en="Fracturing Heat" es="Calor fracturado" de="Bruchswärme" fr="Chaleur de fracturation" ja="破壊エネルギー" />
+  <set name="SlippingHeat" command="SlippingHeat" chs="摩擦热" cht="摩擦熱" en="Frictional Heat" es="Calor friccional" de="Reibungswärme" fr="Chaleur de friction" ja="摩擦熱" />
+  <set name="ElasticEnergy" command="ElasticEnergy" chs="弹性势能" cht="彈性勢能" en="Elastic Energy" es="Energía elástica" de="Elastische Energie" fr="Énergie élastique" ja="弾性エネルギー" />
+  <set name="KineticEnergy" command="KineticEnergy" chs="动能" cht="動能" en="Kinetic Energy" es="Energía cinética" de="Kinetische Energie"  fr="Énergie cinétique" ja="運動エネルギー" />
+  <set name="groupId" command="groupId" chs="群组号" cht="群組號" en="Group" es="Grupo" de="Gruppe" fr="Groupe" ja="グループ" />
+  <set name="CoordinationNumber" command="CoordinationNumber" chs="配位数" cht="配位數" en="Coordination Number" es="Número de coordinación" de="Koordinationszahl" fr="Numéro de coordination" ja="配位数" />
+  <set name="StressXY" command="StressXY" chs="XY方向正应力" cht="XY方向正應力" en="Stress XY" es="Estrés XY" de="Druck XY" fr="Stress XY" ja="XY方向正応力" />
+  <set name="StressXZ" command="StressXZ" chs="XZ方向正应力" cht="XZ方向正應力" en="Stress XZ" es="Estrés XZ" de="Druck XZ" fr="Stress XZ" ja="XZ方向正応力" />
+  <set name="StressYX" command="StressYX" chs="YX方向正应力" cht="YX方向正應力" en="Stress YX" es="Estrés YX" de="Druck YX" fr="Stress YX" ja="YX方向正応力" />
+  <set name="StressYZ" command="StressYZ" chs="YZ方向正应力" cht="YZ方向正應力" en="Stress YZ" es="Estrés YZ" de="Druck YZ" fr="Stress YZ" ja="YZ方向正応力" />
+  <set name="StressZX" command="StressZX" chs="ZX方向正应力" cht="ZX方向正應力" en="Stress ZX" es="Estrés ZX" de="Druck ZX" fr="Stress ZX" ja="ZX方向正応力" />
+  <set name="StressZY" command="StressZY" chs="ZY方向正应力" cht="ZY方向正應力" en="Stress ZY" es="Estrés ZY" de="Druck ZY" fr="Stress ZY" ja="ZY方向正応力" />
+</SimulationResult>
+<ModelParameter defaultIndex="1">
+  <set name="aMatId" command="aMatId" chs="材料号" cht="材料號" en="Material Id" es="Material Id" de="Material Id" fr="Matériel ID" ja="材料Id" />
+  <set name="aR" command="aR" chs="半径" cht="半徑" en="radius" es="Radio" de="Radius" fr="Rayon" ja="半径" />
+  <set name="aKN" command="aKN" chs="正劲度系数" cht="正勁度係數" en="Normal stiffness" es="Coeficiente de rigidez positiva" de="Koeffizient der positiven Steifigkeit" fr="Raideur normale" ja="正剛性係数" />
+  <set name="aKS" command="aKS" chs="切劲度系数" cht="切勁度係數" en="Shear stiffness" es="Coeficiente de cortar" de="Koeffizient der Schnitt Steifigkeit" fr="Raideur de cisaillement" ja="接線剛性係数" />
+  <set name="aBF" command="aBF" chs="断裂力" cht="斷裂力" en="Breaking force" es="Rota fuerza" de="Bruchskraft" fr="Force de rupture" ja="斷裂力" />
+  <set name="aFS0" command="aFS0" chs="抗剪力" cht="抗剪力" en="Shear resistance" es="Resistencia de cortar" de="Schubfestigkeit" fr="Résistance au cisaillement" ja="せん断力" />
+  <set name="aMUp" command="aMUp" chs="摩擦系数" cht="摩擦係數" en="Friction coefficient" es="Coeficiente friccional" de="Reibungskoeffizient" fr="Coefficient de friction" ja="摩擦係数" />
+  <set name="aX" command="aX" chs="X坐标" cht="X座標" en="X-coordinate" es="X-coordenadas" de="X-Koordinate" fr="Coordonnée X" ja="X座標" />
+  <set name="aY" command="aY" chs="Y坐标" cht="Y座標" en="Y-coordinate" es="Y-coordenadas" de="Y-Koordinate" fr="Coordonnée Y" ja="Y座標" />
+  <set name="aZ" command="aZ" chs="Z坐标" cht="Z座標" en="Z-coordinate" es="Z-coordenadas" de="Y-Koordinate" fr="Coordonnée Z" ja="Z座標" />
+  <set name="mVis" command="mVis" chs="粘滞系数" cht="粘滯係數" en="Viscosity" es="Viscosidad" de="Viskosität" fr="Viscosité" ja="粘り係数" />
+  <set name="mM" command="mM" chs="质量" cht="質量" en="Mass" es="Masa" de="Masse" fr="Masse" ja="質" />
+  <set name="mV" command="mV" chs="速度" cht="速度" en="Velocity" es="Velocidad" de="Geschwindigkeit" fr="Vitesse" ja="速度" />
+  <set name="mVX" command="mVX" chs="X方向速度" cht="X方向速度" en="X Velocity" es="X Velocidad" de="X-Geschwindigkeit" fr="Vitesse X" ja="X方向速度" />
+  <set name="mVY" command="mVY" chs="Y方向速度" cht="Y方向速度" en="Y Velocity" es="Y Velocidad" de="Y-Geschwindigkeit" fr="Vitesse Y" ja="Y方向速度" />
+  <set name="mVZ" command="mVZ" chs="Z方向速度" cht="Z方向速度" en="Z Velocity" es=" Z Velocidad" de="Z-Geschwindigkeit" fr="Vitesse Z" ja="Z方向速度" />
+  <set name="mA" command="mA" chs="加速度" cht="加速度" en="Acceleration" es="Aceleración" de="Beschleunigung" fr="Accélération" ja="加速度" />
+  <set name="mAX" command="mAX" chs="X方向加速度" cht="X方向加速度" en="X Acceleration" es="X Aceleración" de="X Beschleunigung" fr="Accélération X" ja="X方向加速度" />
+  <set name="mAY" command="mAY" chs="Y方向加速度" cht="Y方向加速度" en="Y Acceleration" es="Y Aceleración" de="Y Beschleunigung" fr="Accélération Y" ja="Y方向加速度" />
+  <set name="mAZ" command="mAZ" chs="Z方向加速度" cht="Z方向加速度" en="Z Acceleration" es="Z Aceleración" de="Z Beschleunigung" fr="Accélération Z" ja="Z方向加速度" />
+  <set name="mVF" command="mVF" chs="阻尼力" cht="阻尼力" en="Viscous Force" es="La fuerza de amortiguación" de="Dämpfungskraft" fr="Force de viscosité" ja="減衰力" />
+  <set name="mVFX" command="mVFX" chs="X方向阻尼力" cht="X方向阻尼力" en="X Viscous Force" es="X fuerza de amortiguación" de="X Dämpfungskraft" fr="Force de viscosité X" ja="X方向減衰力" />
+  <set name="mVFY" command="mVFY" chs="Y方向阻尼力" cht="Y方向阻尼力" en="Y Viscous Force" es="Y fuerza de amortiguación" de="Y Dämpfungskraft" fr="Force de viscosité Y" ja="Y方向減衰力" />
+  <set name="mVFZ" command="mVFZ" chs="Z方向阻尼力" cht="Z方向阻尼力" en="Z Viscous Force" es="Z fuerza de amortiguación" de="Z Dämpfungskraft" fr="Force de viscosité Z" ja="Z方向減衰力" />
+  <set name="mG" command="mG" chs="体力" cht="體力" en="Body Force" es="Fuerza corporal" de="Körperkraft" fr="Force du corps" ja="体力" />
+  <set name="mGX" command="mGX" chs="X方向体力" cht="X方向體力" en="X Body Force" es="X Fuerza corporal" de="X Körperkraft" fr="Force du corps X" ja="X方向体力" />
+  <set name="mGY" command="mGY" chs="Y方向体力" cht="Y方向體力" en="Y Body Force" es="Y Fuerza corporal" de="Y Körperkraft" fr="Force du corps Y" ja="Y方向体力" />
+  <set name="mGZ" command="mGZ" chs="Z方向体力" cht="Z方向體力" en="Z Body Force" es="Z Fuerza corporal" de="Z Körperkraft" fr="Force du corps Z" ja="Z方向体力" />
+  <set name="FixXId" command="FixXId" chs="X方向锁定" cht="X方向鎖定" en="X Fixed" es="X Fijado" de="X Feststehend" fr="X fixé" ja="X方向ロック" />
+  <set name="FixYId" command="FixYId" chs="Y方向锁定" cht="Y方向鎖定" en="Y Fixed" es="Y Fijado" de="Y Feststehend" fr="Y fixé" ja="Y方向ロック" />
+  <set name="FixZId" command="FixZId" chs="Z方向锁定" cht="Z方向鎖定" en="Z Fixed" es="Z Fijado" de="Z Feststehend" fr="Z fixé" ja="Z方向ロック" />
+</ModelParameter>
+<ProcessCurve defaultIndex="1">
+  <set name="ForceCurve" command="ForceCurve" chs="边界受力曲线" cht="邊界受力曲線" en="Boundary Force Curve" es="Curva de la fuerza de frontera" de=" Spannungskurve der Begrenzung" fr="Courbe de force limite" ja="境界受力曲線" />
+  <set name="EnergyCurve" command="EnergyCurve" chs="能量曲线" cht="能量曲線" en="Energy Curve" es="Energía curva" de="Kurve der Energie" fr="Courbe d'énergie" ja="エネルギー曲線" />
+  <set name="HeatCurve" command="HeatCurve" chs="热量曲线" cht="熱量曲線" en="Heat Curve" es="Calor curva" de="Kurve der Wärme" fr="Courbe de chaleur" ja="熱エネルギー曲線" />
+  <set name="ElementBond" command="--" chs="单元连接" cht="單元連接" en="Element Bond" es="Lazo de elemento" de="Elementsverbindung" fr="Connexion d'éléments" ja="元素つなぐ" />
+  <set name="Id" command="Id" chs="单元编号" cht="單元編號" en="Element Id" es="Elemento Id" de="Id des Elements" fr="Elément Id" ja="元素Id" />
+  <set name="Crack" command="Crack" chs="裂隙分布" cht="裂隙分佈" en="Crack Distribution" es="Fisura distribución" de="Verteilung der Fissur" fr="Distribution de fracture" ja="クラック分布" />
+  <set name="Force" command="Force" chs="单元合力" cht="單元合力" en="Element Resultant Force" es="Fuerza de elemento unido" de="Zusammenwirkung der Elemente" fr="Force unitaire" ja="元素合力" />
+  <set name="WaterForce" command="WaterForce" chs="水压力" cht="水壓力" en="Water Force" es="Agua fuerza" de="Druck des Wassers" fr="Force de l'eau" ja="水圧" />
+  <set name="CrackMovie" command="CrackMovie" chs="裂隙动画" cht="裂隙動畫" en="Cracking Demo" es="Fisura animación" de="Animation der Fissur" fr="Animation de fissure" ja="クラックアニメーション" />
+  <set name="Failure" command="Failure" chs="压密破坏" cht="壓密破壞" en="Compacted Failure" es="Fracaso compacto" de="Verdichtungsschaden" fr="Échec compacté" ja="圧密破壊" />
+  <set name="FailureMovie" command="FailureMovie" chs="压密破坏动画" cht="壓密破壞動畫" en="Compacted Failure Demo" es="Compacto fracaso de animación" de="Animation der Verdichtungsschaden" fr="Animation d'échec compacté" ja="圧密破壊アニメーション" />
+  <set name="StressCurve" command="StressCurve" chs="边界应力曲线（测试）" cht="邊界應力曲線（測試） " en="Boundary Stress Curve (trial)" es="Curva de frontera estrés (experimental)" de="Kurve der Randspannung(Probeversuch)" fr="Courbe de contrainte limite (essai)" ja="境界応力曲線（測定）" />
+</ProcessCurve>
+<DefaultShow>
+  <default2 name="StressZZ" command="StressZZ" chs="Z方向正应力" cht="Z方向正應力" en="Stress ZZ" es="Estrés ZZ" de="Druck ZZ" fr="Stress ZZ" ja="Z方向正応力" />
+  <default2 name="Heat" command="Heat" chs="热量" cht="熱量" en="Heat" es="Calor" de="Wärme" fr="Chaleur" ja="熱エネルギー" />
+  <default3 name="StressZZ" command="StressZZ" chs="Z方向正应力" cht="Z方向正應力" en="Stress ZZ" es="Estrés ZZ" de="Druck ZZ" fr="Stress ZZ" ja="Z方向正応力" />
+  <default3 name="Heat" command="Heat" chs="热量" cht="熱量" en="Heat" es="Calor" de="Wärme" fr="Chaleur" ja="熱エネルギー" />
+  <default3 name="EnergyCurve" command="EnergyCurve" chs="能量曲线" cht="能量曲線" en="Energy Curve" es="Energía curva" de="Kurve der Energie" fr="Courbe d'énergie" ja="エネルギー曲線" />
+  <default4 name="StressZZ" command="StressZZ" chs="Z方向正应力" cht="Z方向正應力" en="Stress ZZ" es="Estrés ZZ" de="Druck ZZ" fr="Stress ZZ" ja="Z方向正応力" />
+  <default4 name="EnergyCurve" command="EnergyCurve" chs="能量曲线" cht="能量曲線" en="Energy Curve" es="Energía curva" de="Kurve der Energie" fr="Courbe d'énergie" ja="エネルギー曲線" />
+  <default4 name="ForceCurve" command="ForceCurve" chs="边界受力曲线" cht="邊界受力曲線" en="Boundary Force Curve" es="Curva de la fuerza de frontera" de=" Spannungskurve der Begrenzung" fr="Courbe de force limite" ja="境界受力曲線" />
+  <default4 name="HeatCurve" command="HeatCurve" chs="热量曲线" cht="熱量曲線" en="Heat Curve" es="Calor curva" de="Kurve der Wärme" fr="Courbe de chaleur" ja="熱エネルギー曲線" />
+</DefaultShow>
+</PostProCommand>

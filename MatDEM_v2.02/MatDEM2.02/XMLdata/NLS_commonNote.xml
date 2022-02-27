@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NLS name="commonNote">
+  <UInote name="Error" chs="代码中存在错误" cht="代码中存在错误" en="Error in code" es="Error in code" de="Error in code" fr="Error in code" ja="Error in code" />
+</NLS>

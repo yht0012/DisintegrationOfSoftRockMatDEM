@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NLS name="Userinfo">
+	<UI name="figure1" type="Name" style="figure" chs="注册" cht="注册" en="Register" es="Register" de="Register" fr="Register" ja="Register" />
+	<UI name="TextArea" type="Value" style="uitextarea" chs="以下信息仅用于了解用户分布及指导软件研发" cht="以下資訊僅用於瞭解用戶分佈及指導軟體研發" en="The following information is only for understanding user distribution and guiding software development" es="La información que figura a continuación se refiere a distribución de usuarios y desarrollo de software" de="Die folgenden Informationen dienen nur dem Verständnis der Benutzerverteilung und der Softwareentwicklung" fr="Les informations ci - après ne sont utilisées que pour comprendre la répartition des utilisateurs et guider le développement du logiciel" ja="以下の情報はユーザー分布の理解とソフトウェア開発の指導にのみ使用されます" />
+	<UI name="NameLabel" type="Text" style="uilabel" chs="姓名*" cht="姓名*" en="Name*" es="Nombre*" de="Name*" fr="Nom*" ja="名前*" />
+	<UI name="InstituteLabel" type="Text" style="uilabel" chs="单位*" cht="組織*" en="Institute*" es="Institutos de investigación*" de="Institut*" fr="Institut*" ja="単位*" />
+	<UI name="MailAddrLabel" type="Text" style="uilabel" chs="联系邮箱*" cht="聯繫郵箱*" en="Mail Addr*" es="Dirección de correo*" de="E -Mail AddName*" fr="Adresse électronique*" ja="連絡メールボックス*" />
+	<UI name="ResearchInterestLabel" type="Text" style="uilabel" chs="研究方向*" cht="研究方向*" en="Research Insterest*" es="Instituciones de investigación*" de="Forschung Interesse*" fr="Instituts de recherche*" ja="研究の方向*" />
+	<UI name="SuggestionLabel" type="Text" style="uilabel" chs="建议" cht="建議" en="Suggestion" es="Recomendaciones" de="Vorschlag" fr="Recommandations" ja="アドバイス" />
+	<UI name="CheckBox_ismailnoti" type="Text" style="uicheckbox" chs="接收更新通知邮件" cht="接收更新通知郵件" en="Receiving Update Notification Mail" es="Recibir mensajes de actualización" de="Erhalten von Update Benachrichtigung Mail" fr="Réception des mises à jour" ja="更新通知メールの受信" />
+	<UI name="Button_submit" type="Text" style="uibutton" chs="提交" cht="提交" en="Submit" es="Presentación" de="Senden" fr="Soumettre" ja="送信" />
+	<UI name="Button_ignore" type="Text" style="uibutton" chs="忽略" cht="忽略" en="Ignore" es="Ignorar" de="Ignorieren" fr="Négliger" ja="無視" />
+	<UInote name="NameEmpty" chs="姓名为空" cht="姓名為空" en="Empty Name" es="Nombre vacío" de="Leerer Name" fr="Nom Vide" ja="名前が空です" />
+	<UInote name="InstituteEmpty" chs="单位为空" cht="組織為空" en="Empty Institute" es="Academia Espacial" de="Leeres Institut" fr="Institut de l 'air" ja="単位が空です" />
+	<UInote name="MailEmpty" chs="邮箱地址为空" cht="郵箱地址為空" en="Empty Mail Addr" es="Dirección de correo vacía" de="Leere Mail -Adresse" fr="Adresse électronique" ja="メールアドレスが空です" />
+	<UInote name="MailInvalid" chs="无效邮箱地址" cht="無效郵箱地址" en="Invalid Mail Addr" es="Dirección de correo no válida" de="Ungültige Mail -Adresse" fr="Adresse électronique non valable" ja="不正なメールアドレス" />
+	<UInote name="SubmitSuccess" chs="感谢！！" cht="感謝！！" en="Thank you for your cooperation" es="Gracias." de="Vielen Dank für Ihre Mitarbeit" fr="Merci de votre coopération." ja="ありがとうございます" />
+	<UInote name="SubmitFailed" chs="未知错误！提交失败！" cht="未知錯誤！提交失敗！" en="Something wrong.Submit Failed!!" es="Hay un problema.¡!" de="Irgendwas stimmt nicht.Los!" fr="Il y a un problème.!" ja="未知のエラー！提出に失敗しました" />
+</NLS>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<PostProCommand>
+<Linear>
+  <command name="Fn">nFN0=obj.nKNe.*nIJXn;</command>
+</Linear>
+<Hertz>
+  <command name="Fn">
+                nFN1=obj.nKNe.*nIJXn;%calculate tensile force
+                nR=obj.aR(1:m_Num)*nRow;
+                nJR=obj.aR(obj.nBall);
+                Req=nR.*nJR./(nR+nJR);
+                nE=obj.aKN(1:m_Num)*nRow./(pi*nR);%E=k*r/A
+                nJE=obj.aKN(obj.nBall)./(pi*nJR);%E=k*r/A
+                Eeq=nE.*nJE./(nE+nJE);
+            	nFN2=-4/3*Eeq.*Req.^(1/2).*(-nIJXn).^(3/2);%calculate compressive force
+                f=nIJXn<0;%compressive
+                nFN0=nFN1.*(~f)+nFN2.*f;</command>
+</Hertz>
+</PostProCommand>

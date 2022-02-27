@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Main lang="es">
+   <item name="lang" value="chs"/>
+   <item name="userId" value="7d6ba475a57e8d0"/>
+   <item name="defaultWinApp" value=""/>
+   <item name="Author" value="Chun Liu"/>
+   <item name="Email" value="chunliu@nju.edu.cn"/>
+   <item name="Note" value="Copyright 2020 @ MatDEM Team"/>
+   <item name="GPUId" value="1"/>
+   <item name="userName" value="test"/>
+   <item name="userInstitute" value="test"/>
+   <item name="userEmail" value="test@test"/>
+</Main>
