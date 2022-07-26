@@ -1,6 +1,6 @@
 **Storage directory of code used in simulation is "MatDEM3.20(2021a runtime)".**
 
-About software: **MatDEM**
+## About software: **MatDEM**
 
 MatDEM, a general discrete element software for rock-soil body developed by Nanjing University with fully independent intellectual property rights, uses the original matrix computing of discrete element method to realize the fast discrete element simulation of millions of particles and complete the large-scale three-dimensional numerical simulation of discrete element in a few hours. Based on the original theory, the software has realized the automatic modeling of discrete element materials, as well as the energy conservation calculation of discrete element system, etc, which has made a major breakthrough. The software combines pre-processing, computing, post-processing, and powerful secondary development to provide a complete functional interface and an efficient computing engine that can complete complex multi-field coupling simulations through secondary development.
 
@@ -8,7 +8,7 @@ MatDEM is written by Matlab language,so in theory,as long as your operating syst
 
 Secondary development of MatDEM based on Matlab language,which need to install Matlab runtime environment,MatDEM_v3.20 and above versions are required to install the R2021A version.MATLAB runtime environment is free which can be downloaded in Matlab official website and installation. If you want to download the latest version of MatDEM, please to the website: http://matdem.com.
 
-**Running of MatDEM software**
+## **Running of MatDEM software**
 
 1. Please download folder named "MatDEM3.20(2021a runtime)", and double-click the application named "MatDEM.exe"
 1. After MatDEM software starts running, go to the "main program", you can double-click to open the "code" in the working folder on its right
