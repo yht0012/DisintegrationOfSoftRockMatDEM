@@ -1,6 +1,0 @@
-<?xml version="1.0" standalone="yes"?>
-<NLS name="apps">
-  <UI name="pushbutton_news" type="String" style="pushbutton" chs="通知：MatDEM3.0发布，支持宽级配" en="Note: MatDEM3.0 is released, which supports wide gradation" />
-<UIcommand value='if basicfs.version==1.69;basicfs.saveRecord(2019);end' />
-</NLS>
-
