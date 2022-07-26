@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NLS name="Main">
+  <UIcell name="popupmenu_lang" type="String" style="popupmenu">
+    <item value="Choose" chs="Language" cht="Language" en="Language" es="Language" de="Language" fr="Language" ja="Language" />
+    <item value="chs" chs="简体中文" cht="简体中文" en="简体中文" es="简体中文" de="简体中文" fr="简体中文" ja="简体中文" />
+    <item value="cht" chs="繁体中文" cht="繁体中文" en="繁体中文" es="繁体中文" de="繁体中文" fr="繁体中文" ja="繁体中文" />
+    <item value="en" chs="English" cht="English" en="English" es="English" de="English" fr="English" ja="English" />
+    <item value="es" chs="Español" cht="Español" en="Español" es="Español" de="Español" fr="Español" ja="Español" />
+    <item value="de" chs="Deutsch" cht="Deutsch" en="Deutsch" es="Deutsch" de="Deutsch" fr="Deutsch" ja="Deutsch" />
+    <item value="fr" chs="Français" cht="Français" en="Français" es="Français" de="Français" fr="Français" ja="Français" />
+    <item value="ja" chs="日本語" cht="日本語" en="日本語" es="日本語" de="日本語" fr="日本語" ja="日本語" />
+  </UIcell>
+  <UI name="pushbutton_command" type="String" style="pushbutton" chs="主程序" cht="主程序" en="Main program" es="Programa principal" de="Hauptprogramm" fr="Programme principal" ja="メインプログラム" />
+  <UI name="pushbutton_postprocess" type="String" style="pushbutton" chs="后处理" cht="後處理" en="Postprocessing" es="Post-procesamiento" de="Postprozessor" fr="Post-processeur" ja="ポストプロッセシング" />
+  <UI name="pushbutton_material" type="String" style="pushbutton" chs="材料" cht="材料" en="Material" es="Material" de="Verteilung" fr="Matériel" ja="材料" />
+  <UI name="pushbutton_release" type="String" style="pushbutton" chs="发布" cht="發布" en="Distribute"  es="Distribuir" de="Verteilen" fr="Distribuer" ja="分配します"/>
+  <UI name="pushbutton_help" type="String" style="pushbutton" chs="帮助" cht="幫助" en="Help" es="Ayuda" de="Hilfe" fr="Aide" ja="ヘルプ" />
+  <UI name="pushbutton_open" type="String" style="pushbutton" chs="运行" cht="運行" en="Run" es="Ejecuta" de="Lauf" fr="Exécuter" ja="を実行する" />
+  <UI name="pushbutton_edit" type="String" style="pushbutton" chs="编辑" cht="編輯" en="Edit" es="Editar" de="Edieren" fr="Éditer" ja="編集" />
+  <UI name="pushbutton_setDefault" type="String" style="pushbutton" chs="设为默认启动应用" cht="設為默認啟動應用" en="Set as the default startup App"  es="Establecer por defecto" de="Als Standard festlegen" fr="Définir par défaut" ja="デフォルトとして設定" />
+  <UI name="pushbutton_cancelDefault" type="String" style="pushbutton" chs="取消默认启动应用" cht="取消默認啟動應用" en="Cancel the default startup App"  es="Cancelar por defecto" de="Standard abbrechen" fr="Annuler par défaut" ja="デフォルトをキャンセル" />
+  <UI name="pushbutton_register" type="String" style="pushbutton" chs="注册" cht="註冊" en="Register" es="Registrarse" de="Registrieren" fr="S'inscrire" ja="登録" />
+  <UI name="pushbutton_GPU" type="String" style="pushbutton" chs="设置" cht="設置" en="Settings" es="Configuraciones" de="Einstellungen" fr="Paramètres" ja="設定" />
+  <UI name="checkbox_close" type="String" style="checkbox" chs="关闭启动页面" cht="關閉啟動頁面" en="Shut down the startup page" es="Apagar la página de inicio" de="Die Startseite schließen" fr="Arrêter la page de démarrage" ja="起動ページを閉じる" />
+  <UI name="uipanel_A" type="Title" style="uipanel" chs="A (开发平台)" cht="A (開發平台)" en="A (Development platform)" es="A (Plataforma de desarrollo)" de="A (Entwicklungsplattform)" fr="A (Plateforme de développement)" ja="A (開発プラットフォーム)" />
+  <UI name="uipanel_B" type="Title" style="uipanel" chs="B (MatDEM应用)" cht="B (MatDEM應用)" en="B (Apps of MatDEM)" es="B (Aplicaciones de MatDEM)" de="B (Apps von MatDEM)" fr="B (Applications de MatDEM)" ja="B (MatDEMのアプリ)" />
+  <UInote name="MatDEM" chs="矩阵离散元" cht="矩陣離散元" en="MatDEM" />
+  <UInote name="Error" chs="代码中存在错误" cht="代碼中存在錯誤" en="Error in code" es="Error in code" de="Error in code" fr="Error in code" ja="Error in code" />
+  <UInote name="reopenMatDEM" chs="请重新打开MatDEM启动默认应用" cht="請重新打開MatDEM啟動默認應用" en="Please reopen the MatDEM to run the default App"  es="Vuelva a abrir MatDEM para iniciar la aplicación predeterminada" de="Bitte öffnen Sie MatDEM erneut, um die Standardanwendung zu starten" fr="Veuillez rouvrir MatDEM pour démarrer l'application par défaut" ja="MatDEMを再度開いて、デフォルトのアプリケーションを起動してください" />
+  <UInote name="cancelDefaultApp" chs="已取消默认启动应用" cht="已取消默認啟動應用" en="The default app is canceled" es="La aplicación de inicio predeterminada ha sido cancelada" de="Die Standardstartanwendung wurde abgebrochen" fr="L'application de lancement par défaut a été annulée" ja="デフォルトの起動アプリケーションがキャンセルされました" />
+  <UInote name="expired" chs="许可证过期（受限制）" en="License is expired (restricted)" />
+  <UInote name="restrictedVersion" chs="无许可证（受限制）" en="Unlicensed (restricted)" />
+  <UInote name="licenseRight" chs="已许可" en="Licensed" />
+  <UInote name="licenseWrong" chs="许可证不适用（受限制）" en="License is wrong (restricted)" />
+  <UInote name="userWrong" chs="许可证不适用（受限制）" en="License is wrong (restricted)" />
+  <UInote name="versionWrong" chs="许可证不适用（受限制）" en="License is wrong (restricted)" />
+  <UInote name="licenseUpdateNote" chs="当前系统中的许可证无效，需更新。请点击设置，导入许可证或使用默认许可证，再重启MatDEM" en="The current license is unvalid. Please click Settings, Import a license or Use a default license. And rerun the MatDEM." />
+  <UInote name="optimizationNote" chs="此服务器未针对MatDEM优化，性能将明显降低，请服务器提供商与MatDEM研发团队联系，以获取优化支持forum@matdem.com" en="This server is not optimized for the MatDEM, and its performance will be significantly reduced. Please contact the MatDEM team forum@matdem.com" />
+  <UInote name="noLicense" chs="未找到可用的许可证，请更新许可证或重新下载软件" en="No available licenses found, please update the license or download the software again" />
+  <UInote name="errorLicense" chs="加载许可证错误，已自动导入默认的许可证" en="Error in loading license, default license has been imported automatically" />
+</NLS>

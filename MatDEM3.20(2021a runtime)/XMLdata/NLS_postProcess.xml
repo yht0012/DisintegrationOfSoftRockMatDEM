@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NLS name="Postprocessing">
+  <UI name="figure1" type="Name" style="figure" chs="MatDEM后处理" cht="MatDEM後處理" en="MatDEM_Postprocessing" es="MatDEM_Post-procesamiento" de="MatDEM_Postprozessor" fr="MatDEM_Postprocesseur" ja="MatDEMポストプロッセシング" />
+  <UI name="pushbutton_openFile" type="String" style="pushbutton" chs="打开数据文件" cht="打開資料檔案" en="Open data file" es="Abrir dato archivo" de="Die Datendatei öffnen" fr="Ouvrir le document de donnée" ja="データファイルを開く" />
+  <UI name="uipanel1" type="Title" style="uipanel" chs="显示类型" cht="顯示類型" en="Show type" es="Presentar tipo" de="Typ zeigen" fr="Afficher le style" ja="タイプを示す" />
+  <UI name="radiobutton_SR" type="String" style="radiobutton" chs="模拟结果" cht="類比結果" en="Simulation result" es="Simulación resultado" de="Ergebnis der Simulation" fr="Résultat de la simulation" ja="模擬結果" />
+  <UI name="radiobutton_MP" type="String" style="radiobutton" chs="模型参数" cht="模型參數" en="Model parameter" es="Model parámetro" de="Parameter der Modells" fr="Paramètre du modèle" ja="模擬パラメタ" />
+  <UI name="radiobutton_PC" type="String" style="radiobutton" chs="过程曲线" cht="過程曲線" en="Process curve" es="Proceso curva" de="Kurve des Prozesses" fr="Courbe de procession" ja="プロセス曲線" />
+  <UI name="uipanel2" type="Title" style="uipanel" chs="显示边界" cht="顯示邊界" en="Show boundary" es="Presentar frontera" de="Grenze zeigen" fr="Afficher les limites" ja="境界示す" />
+  <UI name="uipanel3" type="Title" style="uipanel" chs="显示方式" cht="顯示方式" en="Show mode" es="Presentar modo" de="Art zeigen" fr="Afficher le mode" ja="モード示す" />
+  <UI name="checkbox_newWindow" type="String" style="pushbutton" chs="在新窗口绘图和保存" cht="在新窗口繪圖和保存" en="Draw and save in new form" es="Dibuja y salvar en nueva ventana" de="Zeichnen und sparen am neuen Fenster" fr="Dessiner et enregistrer sous une nouvelle fenêtre" ja="新しいフォームで作図と保存する" />
+  <UI name="text3" type="String" style="text" chs="显示上限（千）" cht="顯示上限（千）" en="Element limit (k):" es="Presentar límite (k)" de="Obergrenze zeigen (k)" fr="Limite d'élément (k):" ja="上限示す (k)" />
+  <UI name="uipanel4" type="Title" style="uipanel" chs="绘图" cht="繪圖" en="Draw" es="Dibujar" de="Zeichnen" fr="Dessiner" ja="作図" />
+  <UI name="text5" type="String" style="text" chs="命令行:" cht="命令列：" en="Command:" es="Orden:" de="Kommando:" fr="Commande:" ja="コマンド:" />
+  <UI name="edit_output" type="String" style="edit" chs="提示：使用showFilter()命令来切割显示模型" cht="提示：使用showFilter（）命令來切割顯示模型" en="Note: please use showFilter() command to cut and show the model" es="Nota: por favor, usa showFilter() orden para cortar y presentar el modelo" de="Hinweis：Benutz showFilter(), um das Modell zu schneiden und zeigen" fr="Remarque: veuillez utiliser la commande showFilter () pour couper et afficher le modèle" ja="ヒント：showFilter()コマンドで切ってモデルを示す" />
+  <UI name="pushbutton_show" type="String" style="pushbutton" chs="生成图件" cht="生成圖件" en="Make figure" es="Confeccionar figura" de="Figur herstellen" fr="Création de figure" ja="画像作成" />
+  <UI name="pushbutton_Close" type="String" style="pushbutton" chs="返回" cht="返回" en="Back" es="Regresar" de="Zurück" fr="Retourner" ja="戻す" />
+  <UI name="uipanel_GIF" type="Title" style="uipanel" chs="动画制作（动画将保存在gif文件夹中）" cht="動畫製作（動畫將保存在gif資料夾中） " en="Making GIF (GIF wil be save in the gif folder)" es="Confeccionando GIF (Cumplido, archivo es guardado en gif carpeta)" de="GIF machen(GIF wird im gif Ordner aufbewahrt)" fr="Créer le GIF (GIF sera enregistré dans le dossier gif)" ja="GIF制作（GIFはgifフォルダに保存する）" />
+  <UI name="pushbutton_setGIFFile" type="String" style="pushbutton" chs="设置动画文件" cht="設定動畫檔案" en="Files of GIF" es="Archivos de GIF" de="Files des GIFs" fr="Documents du GIF" ja="GIFファイルを設置する" />
+  <UI name="text_GIFFileNum" type="String" style="text" chs="共0个文件" cht="共0個檔案" en="0 file in total" es="0 archivo en total " de="Insgesamt 0 Files" fr="0 document au tatal" ja="ファイル0個" />
+  <UI name="pushbutton_makeGIF" type="String" style="pushbutton" chs="开始生成动画" cht="開始生成動畫" en="Start making GIF" es="Empieza a confeccionar GIF" de="Beginn GIF herzustellen " fr="Commencer à créer le GIF" ja="GIF作成スタート" />
+  <UI name="text6" type="String" style="text" chs="文件名" cht="檔名" en="Name" es="Nombre" de="Name" fr="Nom" ja="ファイル名" />
+  <UI name="text10" type="String" style="text" chs="长宽" cht="長寬" en="Size" es="Tamaño" de="Maß" fr="Taille" ja="サイズ" />
+  <UI name="text8" type="String" style="text" chs="间隔" cht="間隔" en="Interval" es="Intervalo" de="Abstand" fr="Intervalle" ja="間隔" />
+  <UI name="text9" type="String" style="text" chs="秒" cht="秒" en="Sec" es="Segundo" de="Sekunde" fr="Seconde" ja="秒" />
+  <UI name="checkbox_useFilter" type="String" style="pushbutton" chs="使用当前显示" cht="使用當前顯示" en="Use showFilter" es="Usa showFilter" de="Die vorhandenen Inhalt benutzen" fr="Utiliser l'affichage actuel" ja="ショーフィルターを使う" />
+  <UI name="checkbox_demo" type="String" style="pushbutton" chs="制作动画时运行此命令" cht="製作動畫時運行此命令" en="Run the command when making GIF" es="Ejecutar la orden confeccionando GIF" de="Laufen dises Kommando während der Herstellung des GIFs" fr="Exécutez la commande lors de la création de GIF" ja="GIF制作する時に運行するコマンド" />
+  <UIcell name="popupmenu_showB" type="String" style="popupmenu">
+    <item value="0" chs="不显示模型边框和边界" cht="不顯示模型邊框和邊界" en="Not show frame and boundary" es="No presenta marco y frontera" de="Zeig den Rahmen und die Grenze des Modells nicht" fr="Ne pas afficher le cadre et la limite" ja="フレームと境界を示しません" />
+    <item value="1" chs="显示模型边框" cht="顯示模型邊框" en="Show frame" es="Presenta marco" de="Zeig den Rahmen des Modells" fr="Afficher le cadre du modèle" ja="フレームを示す" />
+	<item value="2" chs="显示模型边界" cht="顯示模型邊界" en="Show model boundary" es="Presenta marco y frontera" de="Zeig den Rahmen und die Grenze des Modells" fr="afficher le cadre et la limite" ja="フレームと境界を示す" />
+	<item value="3" chs="显示模型边框2" cht="顯示模型邊框2 " en="Show frame 2" es="Presenta marco 2" de="Zeig den Rahmen 2 des Modells" fr="Aficher le cadre 2" ja="フレーム2を示す" />
+  </UIcell>
+  <UIcell name="popupmenu_F" type="String" style="popupmenu">
+    <item value="one" chs="单张图" cht="單張圖" en="One figure" es="Una figura" de="Ein Bild" fr="Une figure" ja="画像一つ" />
+    <item value="two" chs="两张图" cht="兩張圖" en="Two figures" es="deux figures" de="Zwei Bilder" fr="Deux figure" ja="画像二つ" />
+	<item value="three" chs="三张图" cht="三張圖" en="Three figures" es="Tres figuras" de="Drei Bilder" fr="Trois figures" ja="画像三つ" />
+	<item value="four" chs="四张图" cht="四張圖" en="Four figures" es="Cuadro figuras" de="Vier Bilder" fr="Quatre figures" ja="画像四つ" />
+  </UIcell>
+  <UInote name="figureDrawing" chs="绘图（正在绘图中...）" cht="繪圖（正在繪圖中…） " en="Draw (drawing)" es="Dibujar(dibujando)" de="Zeichnen(verläuft)" fr="Dessiner(en train de dessiner)" ja="作図（作図中）" />
+  <UInote name="figureComplete" chs="绘图（已完成）" cht="繪圖（已完成） " en="Draw (completed)" es="Dibujar(cumplido)" de="Gezeichnet haben(ausgeführt)" fr="Dessiner(fini)" ja="作図（完了）" />
+  <UInote name="noteOpenMatFile" chs="备注：打开.mat数据文件" cht="備註：打開.mat資料檔案" en="Note: Open .mat data files" es="Nota: Abrir .mat data files" de="Hinweis: Die mat Datendatei öffnen" fr="Remarque: ouvrir le fichier de donnée .mat" ja="備考：.matデータファイルを開く" />
+  <UInote name="fileNumberIs" chs="个文件" cht="個檔案" en=" file in total" es=" archivos en total" de=" Insgesamt Files" fr=" documents au total" ja="ファイル一つ" />
+  <UInote name="msgboxSetGIFfirst" chs="请先设置动画文件" cht="請先設定動畫檔案" en="Please setup files of GIF first" es="Por favor establece archivos en primero" de="Stell zuerst das GIF Files auf" fr="Veuillez d'abord configurer les fichiers de GIF" ja="先にGIFファイルを設置ください" />
+  <UInote name="msgboxNote" chs="提示" cht="提示" en="Note" es="Nota" de="Hinweis" fr="Remarque" ja="ヒント" />
+  <UInote name="makingGIF" chs="动画制作（正在制作GIF动画，将不断跳出新的动画页面）" cht="動畫製作（正在製作GIF動畫，將不斷跳出新的動畫頁面）" en="Making GIF (new figure of GIF will popup)" es="Confeccionando GIF (nueva figura va apareciendo)" de="GIF Herstellung(Neue Figur des GIFs wird unaufhörlich ausspringen" fr="Création du GIF (nouvelles figures de GIF apparaîtront)" ja="GIF制作（GIF制作中、新しいGIF画面がどんどん跳んでくる）" />
+  <UInote name="GIFsaved" chs="动画制作（动画制作完成，并保存在gif文件夹中）" cht="動畫製作（動畫製作完成，並保存在gif資料夾中）" en="Making GIF (Finished, file is saved in gif folder)" es="Confeccionando GIF (Cumplido, archivo es guardado en gif carpeta)" de="GIF Herstellung(Hergestellt, und es wird im gif Ordner aufbewahrt" fr="Création de GIF(finie, le fichier est enregistré sous le document de GIF" ja="GIF制作（完了、ファイルがgifフォルダに保存する）" />
+  <UInote name="PostprocessImportData" chs="MatDEM后处理 - 正在导入数据" cht="MatDEM後處理-正在導入數據" en="MatDEM Postprocessing - importing data" es="MatDEM Post-procesamiento - importando dato" de="MatDEM Postprozessor- Dateien wird eingeführt" fr="MatDEM Postprocesseur – en train d’entrer les données" ja="MatDEMポストプロッセシング - データインポート中" />
+  <UInote name="Postprocess" chs="MatDEM后处理 - " cht="MatDEM後處理- " en="MatDEM Postprocessing - " es="MatDEM Postprocesamiento - " de="MatDEM Postprozessor-" fr="" ja="MatDEMポストプロッセシング - " />
+  <UInote name="buildObjectNotExist" chs="数据中不存在用于后处理的命名为d的build对象！" cht="數據中不存在用於後處理的命名為d的build對象！" en="The build object d is not exist in the data!" es="El build objeto no existe en el dato" de="Es gibt kein Objekt namens d in den Dateien" fr="L'objet d de build n'existe pas dans les données" ja="データにポストプロッセシングと使うdというbuild対象が存在しません！" />
+</NLS>

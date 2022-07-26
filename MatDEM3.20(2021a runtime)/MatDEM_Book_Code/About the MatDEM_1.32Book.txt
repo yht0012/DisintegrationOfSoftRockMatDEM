@@ -1,0 +1,10 @@
+MatDEM_Book是为专著《地质与岩土工程矩阵离散元分析》配套的MatDEM版本，其包括书中介绍的所有示例。相关示例动画可在http://matdem.com网站上查看。
+
+刘春
+南京大学
+
+The MatDEM_Book is a special version for the book "Matrix Discrete Element Analysis of Geology and Geotechnical Engineering". It includes all the examples introduced in the book. The introduction and demo of the examples are available online http://matdem.com
+
+best wishes,
+Chun Liu
+Nanjing University
